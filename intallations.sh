@@ -1,4 +1,4 @@
-pip3 uninstall Fabric
+sudo pip3 uninstall Fabric
 sudo apt-get install libffi-dev
 sudo apt-get install libssl-dev
 sudo apt-get install build-essential
